@@ -1,3 +1,14 @@
+This project is built with Filament PHP and provides an administrative dashboard with secure login for admin users. Below are the instructions on how to set up, run, and log in to the application.
+
+To access the admin dashboard, navigate to the following URL in your browser:
+http://127.0.0.1:8000/admin
+
+Use the following credentials to log in:
+
+Email: admin@filament.php
+Password: admin1234
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
